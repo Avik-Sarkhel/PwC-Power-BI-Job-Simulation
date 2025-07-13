@@ -43,17 +43,19 @@ The project demonstrates a strong grasp of **Power BI**, analytical thinking, an
 
 ### 📸 Dashboard Screenshots
 
-**Dashboard 1 – Current Technology Usage**  
-![Dashboard 1](Dashboard%201.png)
+**Dashboard 1 – Telecom Customer Retention**  
+![Dashboard 1](dashboard%201.png)
 
-**Dashboard 2 – Future Technology Trends**  
-![Dashboard 2](Dashboard%202.png)
+**Dashboard 2 – Employee Insights**  
+![Dashboard 2](dashboard%202.png)
 
-**Dashboard 3 – Demographics**  
-![Dashboard 3](Dashboard%203.png)
+### 🎥 Dashboard Interactivity Preview (GIFs)
 
-### 🎥 Dashboard Interactivity Preview (GIF)  
-![Dashboard Recording](Dashboard%20Record.gif)
+**Dashboard 1 – GIF Preview**  
+![Dashboard 1 GIF](dashboard%20record%201%20.gif)
+
+**Dashboard 2 – GIF Preview**  
+![Dashboard 2 GIF](dashboard%20record%202%20.gif)
 
 ---
 
