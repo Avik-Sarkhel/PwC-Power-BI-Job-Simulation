@@ -39,24 +39,21 @@ The project demonstrates a strong grasp of **Power BI**, analytical thinking, an
 | `README.md`                           | This file                                                    |
 
 ---
+## 🖥️ Power BI Dashboard Preview
 
-## 📸 Dashboard Screenshots
+### 📸 Dashboard Screenshots
 
-### 🖼️ Telecom Customer Retention Dashboard (Static)
-![Telecom Customer Retention Dashboard](dashboard-1.png)
+**Dashboard 1 – Current Technology Usage**  
+![Dashboard 1](Dashboard%201.png)
 
-### 🖼️ Employee Insights Dashboard (Static)
-![Employee Insights Dashboard](dashboard2.png)
+**Dashboard 2 – Future Technology Trends**  
+![Dashboard 2](Dashboard%202.png)
 
----
+**Dashboard 3 – Demographics**  
+![Dashboard 3](Dashboard%203.png)
 
-## 🎬 Live Dashboard Demo (GIFs)
-
-### 🖥️ Telecom Customer Retention Dashboard – Interactive
-![Telecom Dashboard Interaction](dashboardrecord1.gif)
-
-### 👥 Employee Insights Dashboard – Interactive
-![Employee Dashboard Interaction](dashboardrecord2.gif)
+### 🎥 Dashboard Interactivity Preview (GIF)  
+![Dashboard Recording](Dashboard%20Record.gif)
 
 ---
 
