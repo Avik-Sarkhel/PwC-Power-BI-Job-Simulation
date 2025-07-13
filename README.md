@@ -26,47 +26,37 @@ The project demonstrates a strong grasp of **Power BI**, analytical thinking, an
 
 ---
 
-## 📊 Project Components
-
-### 🔹 Telecom Customer Retention Dashboard  
-Focuses on key customer metrics:
-- Total customers
-- Senior citizen distribution
-- Average tenure
-- Paperless billing trends
-- Service subscription vs. churn behavior
-
-### 🔹 Employee Insights Dashboard  
-Focuses on internal HR KPIs:
-- Total employees
-- Years of experience
-- Performance rates
-- Diversity by nationality
-- Retention, attrition & promotion trends
-
----
-
 ## 📁 Project Files
 
-| File Name                        | Description                                                 |
-|----------------------------------|-------------------------------------------------------------|
-| `dashboard_1.png`                | Static screenshot of Telecom Retention Dashboard            |
-| `dashboard_2.png`                | Static screenshot of Employee Insights Dashboard            |
-| `dashboard_record_1.gif`         | Demo of Telecom Dashboard interaction                       |
-| `dashboard_record_2.gif`         | Demo of Employee Insights Dashboard                         |
-| `02_Churn-Dataset.xlsx`          | Dataset used for Customer Retention Dashboard               |
-| `03_Diversity-Inclusion-Dataset.xlsx` | Dataset used for Employee Insights Dashboard         |
-| `README.md`                      | This file                                                   |
+| File Name                             | Description                                                  |
+|---------------------------------------|--------------------------------------------------------------|
+| `dashboard_1.png`                     | Static screenshot of Telecom Retention Dashboard             |
+| `dashboard_2.png`                     | Static screenshot of Employee Insights Dashboard             |
+| `dashboard_record_1.gif`              | Demo of Telecom Dashboard interaction                        |
+| `dashboard_record_2.gif`              | Demo of Employee Insights Dashboard                          |
+| `02_Churn-Dataset.xlsx`               | Dataset used for Customer Retention Dashboard                |
+| `03_Diversity-Inclusion-Dataset.xlsx` | Dataset used for Employee Insights Dashboard                 |
+| `README.md`                           | This file                                                    |
 
 ---
 
-## 📸 Dashboard Previews
+## 📸 Dashboard Screenshots
 
-### 🖥️ Telecom Customer Retention Dashboard
-![Telecom Dashboard Demo](dashboard_record_1.gif)
+### 🖼️ Telecom Customer Retention Dashboard (Static)
+![Telecom Customer Retention Dashboard](dashboard1.png)
 
-### 👥 Employee Insights Dashboard
-![Employee Insights Demo](dashboard_record_2.gif)
+### 🖼️ Employee Insights Dashboard (Static)
+![Employee Insights Dashboard](dashboard2.png)
+
+---
+
+## 🎬 Live Dashboard Demo (GIFs)
+
+### 🖥️ Telecom Customer Retention Dashboard – Interactive
+![Telecom Dashboard Interaction](dashboardrecord1.gif)
+
+### 👥 Employee Insights Dashboard – Interactive
+![Employee Dashboard Interaction](dashboardrecord2.gif)
 
 ---
 
