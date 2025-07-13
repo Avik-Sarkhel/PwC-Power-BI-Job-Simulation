@@ -43,7 +43,7 @@ The project demonstrates a strong grasp of **Power BI**, analytical thinking, an
 ## 📸 Dashboard Screenshots
 
 ### 🖼️ Telecom Customer Retention Dashboard (Static)
-![Telecom Customer Retention Dashboard](dashboard1.png)
+![Telecom Customer Retention Dashboard](dashboard-1.png)
 
 ### 🖼️ Employee Insights Dashboard (Static)
 ![Employee Insights Dashboard](dashboard2.png)
